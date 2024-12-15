@@ -1,6 +1,6 @@
 # Understanding let, const and var in JavaScript
 
-![Variables in JavaScript](/images/variables_in_js.jpg)
+![Variables in JavaScript](/images/thumbnails/01_JSBlog_Thumbnail.jpg)
 
 ## Introduction
 
